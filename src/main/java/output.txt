@@ -1,0 +1,9 @@
+a : 1
+b : 1
+c : 1
+d : 1
+e : 1
+g : 1
+h : 1
+Space : 0
+Total number of characters in the given file (including Space) : 7
